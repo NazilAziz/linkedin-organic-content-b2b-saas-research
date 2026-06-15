@@ -1,5 +1,9 @@
 #!/usr/bin/env python3
-"""Download a YouTube transcript and save it as markdown."""
+"""Download a YouTube transcript and save it as markdown.
+
+Bonus utility — supplementary to the core LinkedIn research deliverables.
+Demonstrates API-based automated content gathering via youtube-transcript-api.
+"""
 
 from __future__ import annotations
 

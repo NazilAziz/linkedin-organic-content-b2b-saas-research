@@ -1,25 +1,21 @@
 # Scripts
 
-Helper scripts for collecting and organizing research material.
+Helper scripts and templates for the research repository.
 
-## Available scripts
+## Core templates
 
-| Script | Purpose |
-|--------|---------|
-| `fetch-youtube-transcript.py` | Download a YouTube transcript to markdown |
-| `new-post-note.md` | Template for annotating a saved LinkedIn post |
-| `new-transcript-note.md` | Template for adding a YouTube/podcast transcript |
+| File | Purpose |
+|------|---------|
+| [`new-post-note.md`](new-post-note.md) | Template for annotating a saved LinkedIn post |
+| [`new-transcript-note.md`](new-transcript-note.md) | Template for manually adding a transcript |
 
-## Usage
+## Bonus: API-based transcript fetcher
 
-Copy a template into the appropriate folder and fill it in:
+> Supplementary — demonstrates automated content gathering, not a core deliverable.
 
-```bash
-# Example: save a new post annotation
-cp scripts/new-post-note.md research/linkedin-posts/justin-welsh-hooks-2025-06.md
-```
-
-### fetch-youtube-transcript.py
+| File | Purpose |
+|------|---------|
+| [`fetch-youtube-transcript.py`](fetch-youtube-transcript.py) | Download YouTube captions via `youtube-transcript-api` and save as markdown |
 
 ```bash
 pip install -r requirements.txt
@@ -30,8 +26,3 @@ Options:
 
 - `-o, --output-dir` — custom output folder (default: `research/youtube-transcripts`)
 - `-l, --language` — preferred language code (repeatable)
-
-## Planned scripts
-
-- [ ] `fetch-linkedin-post.py` — archive a post URL to markdown (requires manual auth)
-- [ ] `index-sources.py` — regenerate sections of `research/sources.md`
