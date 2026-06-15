@@ -33,8 +33,4 @@ For B2B SaaS, Welsh demonstrates how a single executive voice can outperform com
 
 
 
-## Collection checklist
 
-- [ ] Save 10 high-performing posts to `research/linkedin-posts/`
-- [ ] Pull YouTube transcripts on content batching
-- [ ] Document Content OS framework summary in `research/other/`
