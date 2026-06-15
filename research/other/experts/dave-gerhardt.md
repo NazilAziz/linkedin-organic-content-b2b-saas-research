@@ -33,8 +33,4 @@ For B2B SaaS organic LinkedIn, Gerhardt is the benchmark for **tone, positioning
 
 
 
-## Collection checklist
 
-- [ ] Save representative POV posts to `research/linkedin-posts/`
-- [ ] Transcribe Exit Five episodes on organic/social
-- [ ] Summarize Founder Brand principles for SaaS exec posts
