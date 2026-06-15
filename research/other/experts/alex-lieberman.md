@@ -37,8 +37,3 @@ Lieberman is selected for **narrative craft and content-business thinking** — 
 - Morning Brew's growth tactics (referrals, tone, consistency) translate to SaaS newsletter + LinkedIn loops.
 - Relevant for: SaaS founders, content-led GTM teams, and CEO personal brand programs.
 
-## Collection checklist
-
-- [ ] Save storytelling-format posts to `research/linkedin-posts/`
-- [ ] Transcribe Founder's Journal episodes on content strategy
-- [ ] Document story arc template for B2B SaaS posts
