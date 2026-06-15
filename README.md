@@ -4,7 +4,7 @@ A curated research repository analyzing how top B2B practitioners build organic 
 
 ---
 
-## Project Objective
+## Project Objective:
 
 Build a **repeatable, evidence-based LinkedIn organic content strategy** for B2B SaaS — grounded in real practitioner output, not generic advice.
 
