@@ -37,8 +37,3 @@ For B2B SaaS LinkedIn, Natividad is the go-to for **content quality, audience in
 - Cross-reference SparkToro audience data methodology for ICP research before posting.
 - Relevant for: content strategists, PMM leaders, and teams optimizing for engagement quality over lead forms.
 
-## Collection checklist
-
-- [ ] Save zero-click example posts to `research/linkedin-posts/`
-- [ ] Summarize zero-click framework for SaaS use cases
-- [ ] Pull podcast transcripts from `research/youtube-transcripts/`
