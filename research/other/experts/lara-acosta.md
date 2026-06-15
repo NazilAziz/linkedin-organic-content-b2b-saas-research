@@ -35,8 +35,3 @@ Acosta is selected for **hands-on LinkedIn craft** — the layer below strategy 
 - Study comment-to-DM funnel patterns in her engagement style.
 - Relevant for: founders without a content team, ghostwriters, and SDR/BDR personal brand programs.
 
-## Collection checklist
-
-- [ ] Save 10 carousel/document examples to `research/linkedin-posts/`
-- [ ] Pull YouTube transcripts on hook formulas
-- [ ] Create hook swipe file in `research/other/`
