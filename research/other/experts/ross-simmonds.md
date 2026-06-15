@@ -37,8 +37,3 @@ For B2B SaaS LinkedIn strategy, Simmonds answers: *how does social fit into a fu
 - Compare his agency case study format — useful template for SaaS customer stories on LinkedIn.
 - Relevant for: content marketers, demand gen leads, and teams scaling organic without paid boost.
 
-## Collection checklist
-
-- [ ] Save distribution framework posts to `research/linkedin-posts/`
-- [ ] Pull Foundation blog posts on LinkedIn + SEO synergy
-- [ ] Document repurposing workflow in `research/other/`
