@@ -2,7 +2,7 @@
 
 > **Bonus resource** — not a core deliverable of this project.
 
-This folder holds YouTube and podcast transcripts that support deeper research on the experts profiled in this repository. Transcript collection demonstrates familiarity with **automated content gathering workflows and APIs**.
+TThis folder contains supplementary YouTube and podcast transcripts used to support deeper research into the experts profiled in this repository. Transcript collection is included as a supplementary demonstration of **API-based content gathering and research automation workflows**.
 
 ## How transcripts are collected
 
