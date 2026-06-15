@@ -31,6 +31,12 @@ For B2B SaaS, Welsh demonstrates how a single executive voice can outperform com
 | LinkedIn posts (profile) | https://www.linkedin.com/in/justinwelsh/recent-activity/all/ | Primary corpus for post format analysis |
 | YouTube | https://www.youtube.com/@JustinWelsh | Talks and breakdowns of content strategy |
 
+## Research notes
+
+- Study his hook patterns and line-break formatting — widely imitated in B2B LinkedIn.
+- Compare early vs. recent posts to see how he evolved from operator stories to course-led CTAs.
+- Relevant for: SaaS founders, fractional CMOs, and anyone building a personal brand alongside a product.
+
 
 
 
