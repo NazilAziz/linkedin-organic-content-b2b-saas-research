@@ -35,8 +35,4 @@ For B2B SaaS LinkedIn strategy, Flanagan represents **how large SaaS orgs operat
 - Study how he packages podcast insights into native LinkedIn posts.
 - Relevant for: marketing leaders at growth-stage SaaS scaling content teams.
 
-## Collection checklist
 
-- [ ] Transcribe MATG episodes on organic social
-- [ ] Save LinkedIn posts on AI + content production
-- [ ] Document HubSpot-style experimentation framework
