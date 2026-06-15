@@ -37,8 +37,4 @@ Walker is selected because he connects LinkedIn organic activity directly to **p
 - Study how he uses data visuals and bold claims to drive comment engagement.
 - Relevant for: demand gen leaders, RevOps, and founders selling to enterprise.
 
-## Collection checklist
 
-- [ ] Save dark social / LinkedIn attribution posts
-- [ ] Transcribe key B2B Revenue Vitals episodes on organic
-- [ ] Document metrics framework for LinkedIn-influenced pipeline
