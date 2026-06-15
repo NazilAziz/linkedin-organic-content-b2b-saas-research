@@ -31,11 +31,7 @@ For B2B SaaS organic LinkedIn, Gerhardt is the benchmark for **tone, positioning
 | LinkedIn posts (profile) | https://www.linkedin.com/in/davegerhardt/recent-activity/all/ | POV posts and commentary |
 | Founder Brand (book) | https://www.founderbrand.com/ | Framework for executive-led content |
 
-## Research notes
 
-- Analyze how he ties personal stories to B2B marketing lessons without feeling salesy.
-- Exit Five podcast episodes on LinkedIn and organic are high-priority transcripts.
-- Relevant for: B2B SaaS CMOs, founders repositioning category, and teams escaping "corporate LinkedIn."
 
 ## Collection checklist
 
