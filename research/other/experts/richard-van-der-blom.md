@@ -35,8 +35,3 @@ Van der Blom is selected because **strategy must follow the algorithm's constrai
 - Cross-reference findings with qualitative experts (Welsh, Acosta) to balance data vs. craft.
 - Relevant for: anyone setting posting cadence, format mix, or exec LinkedIn guidelines.
 
-## Collection checklist
-
-- [ ] Acquire and summarize latest Algorithm Insights report in `research/other/`
-- [ ] Save key data posts to `research/linkedin-posts/`
-- [ ] Build format performance matrix for B2B SaaS post types
